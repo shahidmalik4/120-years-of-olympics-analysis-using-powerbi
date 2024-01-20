@@ -1,8 +1,6 @@
-### Dashboard
 <img src="https://github.com/Shahid-Malik4/120-years-of-olympics/blob/main/pbi-olympics.png" alt="Dashboard Image">
-https://github.com/Shahid-Malik4/120-years-of-olympics/blob/main/pbi-olympics.png
 
-# Skill & Tools:
+### Skill & Tools:
 * Excel
 * Power BI
 
