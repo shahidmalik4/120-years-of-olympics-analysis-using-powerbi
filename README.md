@@ -1,5 +1,6 @@
 ### Dashboard
-<img src="https://github.com/shahid-malik4/120-years-of-olympics/blob/master/pbi-olympics.png" alt="Dashboard Image">
+<img src="https://github.com/Shahid-Malik4/120-years-of-olympics/blob/main/pbi-olympics.png" alt="Dashboard Image">
+https://github.com/Shahid-Malik4/120-years-of-olympics/blob/main/pbi-olympics.png
 
 ### Check full project <a href="https://www.kaggle.com/">Here</a>
 
