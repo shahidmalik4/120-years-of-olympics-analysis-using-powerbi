@@ -2,10 +2,9 @@
 <img src="https://github.com/Shahid-Malik4/120-years-of-olympics/blob/main/pbi-olympics.png" alt="Dashboard Image">
 https://github.com/Shahid-Malik4/120-years-of-olympics/blob/main/pbi-olympics.png
 
-### Check full project <a href="https://www.kaggle.com/">Here</a>
-
-### Skill & Tools:
-Excel, Power BI
+# Skill & Tools:
+* Excel
+* Power BI
 
 # Introduction:
 The "120 Years of Olympic Games: A Comprehensive Review" project aimed to analyze historical Olympic Games data spanning
