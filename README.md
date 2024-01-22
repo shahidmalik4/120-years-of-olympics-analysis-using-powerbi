@@ -1,5 +1,7 @@
 <img src="https://github.com/Shahid-Malik4/120-years-of-olympics/blob/main/pbi-olympics.png" alt="Dashboard Image">
 
+<a href="https://shahidmalik4.github.io/projects/120-years-of-olympic-games.html">Project Link</a>
+
 ### Skill & Tools:
 * Excel
 * Power BI
