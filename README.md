@@ -38,5 +38,5 @@ Identified dominant countries in Olympic history based on medal counts across di
 The "120 Years of Olympic Games: A Comprehensive Review" project successfully transformed raw Olympic Games data into a visually engaging and informative dashboard using Power BI. By leveraging data cleaning, normalization, and visualization techniques, the project provided stakeholders with a comprehensive tool to explore and understand historical trends, top performers, and key factors influencing the Olympic Games over more than a century.
 
 <br>
-<a href="https://shahidmalik4.github.io/projects/120-years-of-olympic-games.html">Project Link</a>
+<a href="https://shahidmalik.vercel.app/project/120-years-of-olympic-games">Project Link</a>
 <br>
