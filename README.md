@@ -25,8 +25,8 @@ For my deep dive into the analysis, I harnessed the power of several key tools:
 
 - **SQL:** The backbone of my analysis, allowing me to query the database and unearth critical insights.
 - **MySQL:** The chosen database management system, ideal for handling the job posting data.
-- **PowerBI:** My go-to for database management and executing SQL queries.
-- **Excel:** My go-to for database management and executing SQL queries.
+- **PowerBI:** My go-to for analysis and visualization.
+- **Excel:** The handy tool for Data manipulation.
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
 
