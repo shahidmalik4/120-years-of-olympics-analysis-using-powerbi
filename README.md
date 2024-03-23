@@ -82,21 +82,10 @@ Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 
 Throughout this adventure, I've turbocharged my SQL toolkit with some serious firepower:
 
-- **🧩 Complex Query Crafting:** Mastered the art of advanced SQL, merging tables like a pro and wielding WITH clauses for ninja-level temp table maneuvers.
+- **🧩 Complex Query Crafting:** Mastered the art of advanced SQL, merging tables like a pro and wielding clauses for ninja-level table maneuvers.
 - **📊 Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
-- **💡 Analytical Wizardry:** Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
+- **💡 Analytical Wizardry:** Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful results.
 
 # Conclusions
-
-### Insights
-From the analysis, several general insights emerged:
-
-1. **Top-Paying Data Analyst Jobs**: The highest-paying jobs for data analysts that allow remote work offer a wide range of salaries, the highest at $650,000!
-2. **Skills for Top-Paying Jobs**: High-paying data analyst jobs require advanced proficiency in SQL, suggesting it’s a critical skill for earning a top salary.
-3. **Most In-Demand Skills**: SQL is also the most demanded skill in the data analyst job market, thus making it essential for job seekers.
-4. **Skills with Higher Salaries**: Specialized skills, such as SVN and Solidity, are associated with the highest average salaries, indicating a premium on niche expertise.
-5. **Optimal Skills for Job Market Value**: SQL leads in demand and offers for a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
-
-### Closing Thoughts
 
 The "120 Years of Olympic Games: A Comprehensive Review" project successfully transformed raw Olympic Games data into a visually engaging and informative dashboard using Power BI. By leveraging data cleaning, normalization, and visualization techniques, the project provided stakeholders with a comprehensive tool to explore and understand historical trends, top performers, and key factors influencing the Olympic Games over more than a century.
