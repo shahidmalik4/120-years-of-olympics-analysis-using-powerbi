@@ -34,9 +34,9 @@ To identify the results, I filtered medals data by gender and season. This resul
 
 
 Here's the breakdown of result:
-- **Wide Salary Range:** Top 10 paying data analyst roles span from $184,000 to $650,000, indicating significant salary potential in the field.
-- **Diverse Employers:** Companies like SmartAsset, Meta, and AT&T are among those offering high salaries, showing a broad interest across different industries.
-- **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
+- Across the 120 years analyzed, a total of 28530 medals were awarded to male athletes, while female athletes accumulated 11253 medals.
+- In the early years of the Olympics, male athletes dominated the medal standings, with a significant gap between male and female medal counts.
+- However, as the Olympics progressed, female representation and performance witnessed a steady rise, leading to a more balanced distribution of medals in recent years.
 
 
 ### 2. Countries participated in almost every Olympic Season
