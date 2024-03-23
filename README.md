@@ -1,7 +1,7 @@
 <img src="https://github.com/Shahid-Malik4/120-years-of-olympics/blob/main/pbi-olympics.png" alt="Dashboard Image">
 
 # Introduction
-📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
+📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.<br>
 The "120 Years of Olympic Games: A Comprehensive Review" project aimed to analyze historical Olympic Games data spanning more than a century. Utilizing data sourced from Kaggle, the project focused on cleaning, preparing, normalizing, and visualizing the data in Power BI to extract meaningful insights and highlight key trends in Olympic history.
 
 <br>
