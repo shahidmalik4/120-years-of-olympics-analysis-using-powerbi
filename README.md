@@ -30,7 +30,7 @@ For my deep dive into the analysis, I harnessed the power of several key tools:
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
 
-### 1. Distribution of medals among male and female athletes?
+### 1. Distribution of medals among male and female athletes
 To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
 
 
@@ -40,7 +40,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
 
-### 2. Skills for Top Paying Jobs
+### 2. Countries participated in almost every Olympic Season
 To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
 
 Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in 2023:
@@ -50,7 +50,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 Other skills like **R**, **Snowflake**, **Pandas**, and **Excel** show varying degrees of demand.
 
 
-### 3. In-Demand Skills for Data Analysts
+### 3. Participants and Events by Season?
 
 This query helped identify the skills most frequently requested in job postings, directing focus to areas with high demand.
 
@@ -59,7 +59,7 @@ Here's the breakdown of the most demanded skills for data analysts in 2023
 - **Programming** and **Visualization Tools** like **Python**, **Tableau**, and **Power BI** are essential, pointing towards the increasing importance of technical skills in data storytelling and decision support.
 
 
-### 4. Skills Based on Salary
+### 4. Medals distribution by Athletes, Countries and Sports throughout the Year's
 Exploring the average salaries associated with different skills revealed which skills are the highest paying.
 
 Here's a breakdown of the results for top paying skills for Data Analysts:
