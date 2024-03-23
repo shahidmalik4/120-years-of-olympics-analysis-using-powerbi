@@ -16,14 +16,12 @@ Objective: To explore and visualize extensive Olympic Games data to identify tre
 ### The questions I wanted to answer:
 
 1. Distribution of medals among male and female athletes?
-2. What skills are required for these top-paying jobs?
-3. What skills are most in demand for data analysts?
-4. Which skills are associated with higher salaries?
+2. What countries participated in almost every Olympic Season?
+3. Participants and Events by Season?
+4. Medals distribution by Athletes, Countries and Sports throughout the Year's?
 5. What are the most optimal skills to learn?
-* Top Countries by Medals: Visual representations highlighting countries with the highest medal counts across all Olympic Games.
-* Top Athletes by Medals: Charts displaying the most decorated athletes in Olympic history.
-* Events by Season: Visual breakdowns of Olympic events categorized by seasons (Summer and Winter).
-* 
+* Top Countries by Medals: Visual representations highlighting countries with the highest medal counts across all Olympic 
+
 
 # Tools I Used
 For my deep dive into the analysis, I harnessed the power of several key tools:
