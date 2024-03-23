@@ -9,7 +9,7 @@ The "120 Years of Olympic Games: A Comprehensive Review" project aimed to analyz
 <br>
 
 # Background
-Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
+Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.<br>
 Objective: To explore and visualize extensive Olympic Games data to identify trends, top-performing countries, athletes, and gender distribution across various Olympic events and seasons.
 
 
