@@ -15,7 +15,7 @@ Objective: To explore and visualize extensive Olympic Games data to identify tre
 
 ### The questions I wanted to answer:
 
-1. What are the top-paying data analyst jobs?
+1. Distribution of medals among male and female athletes?
 2. What skills are required for these top-paying jobs?
 3. What skills are most in demand for data analysts?
 4. Which skills are associated with higher salaries?
@@ -23,7 +23,7 @@ Objective: To explore and visualize extensive Olympic Games data to identify tre
 * Top Countries by Medals: Visual representations highlighting countries with the highest medal counts across all Olympic Games.
 * Top Athletes by Medals: Charts displaying the most decorated athletes in Olympic history.
 * Events by Season: Visual breakdowns of Olympic events categorized by seasons (Summer and Winter).
-* Gender Distribution: Comparative visuals showcasing the distribution of medals among male and female athletes.
+* 
 
 # Tools I Used
 For my deep dive into the analysis, I harnessed the power of several key tools:
@@ -35,7 +35,7 @@ For my deep dive into the analysis, I harnessed the power of several key tools:
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
 
-### 1. Top Paying Data Analyst Jobs
+### 1. Distribution of medals among male and female athletes?
 To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
 
 
