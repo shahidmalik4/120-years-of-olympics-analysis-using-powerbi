@@ -66,13 +66,10 @@ For my deep dive into the analysis, I harnessed the power of several key tools:
 
 ### 5. Athletes Participations and Medal Winning Analysis
 
-Combining insights from demand and salary data, this query aimed to pinpoint skills that are both in high demand and have high salaries, offering a strategic focus for skill development.
-
-Here's a breakdown of the most optimal skills for Data Analysts in 2023: 
-- **High-Demand Programming Languages:** Python and R stand out for their high demand, with demand counts of 236 and 148 respectively. Despite their high demand, their average salaries are around $101,397 for Python and $100,499 for R, indicating that proficiency in these languages is highly valued but also widely available.
-- **Cloud Tools and Technologies:** Skills in specialized technologies such as Snowflake, Azure, AWS, and BigQuery show significant demand with relatively high average salaries, pointing towards the growing importance of cloud platforms and big data technologies in data analysis.
-- **Business Intelligence and Visualization Tools:** Tableau and Looker, with demand counts of 230 and 49 respectively, and average salaries around $99,288 and $103,795, highlight the critical role of data visualization and business intelligence in deriving actionable insights from data.
-- **Database Technologies:** The demand for skills in traditional and NoSQL databases (Oracle, SQL Server, NoSQL) with average salaries ranging from $97,786 to $104,534, reflects the enduring need for data storage, retrieval, and management expertise.
+- In the span of 120 years, the United States has emerged as the most successful nation in terms of total medals won, with over 5600 medals across all editions of the Olympics. Russia (including the Soviet Union) follows closely behind, with over 3900 medals.
+- Nations such as the United States, Russia, China, and Germany tend to excel across a wide range of Olympic disciplines, accumulating significant medal counts over successive Games.
+- Countries with robust sports development programs and funding mechanisms often produce elite athletes capable of competing at the highest levels of Olympic competition.
+- Historical legacies and geopolitical factors also play a role. For instance, countries with strong traditions in specific sports, such as Norway in winter sports and Kenya in distance running, often excel in those disciplines.
 
 # What I Learned
 
