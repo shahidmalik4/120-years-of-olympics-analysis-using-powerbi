@@ -31,10 +31,10 @@ For my deep dive into the analysis, I harnessed the power of several key tools:
 
 
 ### 1. Distribution of medals among male and female athletes
-To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
+To identify the results, I filtered medals data by gender and season. This result highlights that Male and Female gender won most of medals in Summer and Winter season respectively.
 
 
-Here's the breakdown of the top data analyst jobs in 2023:
+Here's the breakdown of result:
 - **Wide Salary Range:** Top 10 paying data analyst roles span from $184,000 to $650,000, indicating significant salary potential in the field.
 - **Diverse Employers:** Companies like SmartAsset, Meta, and AT&T are among those offering high salaries, showing a broad interest across different industries.
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
