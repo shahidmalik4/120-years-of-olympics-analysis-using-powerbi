@@ -30,32 +30,29 @@ For my deep dive into the analysis, I harnessed the power of several key tools:
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
 ### 1. Distribution of medals among male and female athletes
-To identify the results, I filtered medals data by gender and season. This result highlights that Male and Female gender won most of medals in Summer and Winter season respectively.
-
-
-Here's the breakdown of result:
 - Across the 120 years analyzed, a total of 28530 medals were awarded to male athletes, while female athletes accumulated 11253 medals.
 - In the early years of the Olympics, male athletes dominated the medal standings, with a significant gap between male and female medal counts.
 - However, as the Olympics progressed, female representation and performance witnessed a steady rise, leading to a more balanced distribution of medals in recent years.
 
 
 ### 2. Countries participated in almost every Olympic Season
-To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
-
-Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in 2023:
-- **SQL** is leading with a bold count of 8.
-- **Python** follows closely with a bold count of 7.
-- **Tableau** is also highly sought after, with a bold count of 6.
-Other skills like **R**, **Snowflake**, **Pandas**, and **Excel** show varying degrees of demand.
+- Certain nations have consistently demonstrated a high level of engagement with the Olympic Games, appearing frequently across various editions.
+- Countries such as the United States, Russia (formerly the Soviet Union), Germany, Great Britain, and France consistently rank among the top participants in terms of sheer number of appearances.
+- External events such as wars, political conflicts, and economic crises have occasionally disrupted Olympic participation for certain countries, leading to fluctuations in their engagement over time.
 
 
 ### 3. Participants and Events by Season?
 
-This query helped identify the skills most frequently requested in job postings, directing focus to areas with high demand.
+- **Summer Games:**
+   - The Summer Olympics typically attract a larger number of participating countries and events compared to the Winter Games.
+   - Nations from around the world converge to compete in a wide array of sports, including athletics, swimming, gymnastics, and team sports like soccer and basketball.
+   - The Summer Games traditionally feature a diverse range of events, reflecting the global appeal and popularity of warm-weather sports.
 
-Here's the breakdown of the most demanded skills for data analysts in 2023
-- **SQL** and **Excel** remain fundamental, emphasizing the need for strong foundational skills in data processing and spreadsheet manipulation.
-- **Programming** and **Visualization Tools** like **Python**, **Tableau**, and **Power BI** are essential, pointing towards the increasing importance of technical skills in data storytelling and decision support.
+- **Winter Games:**
+    - The Winter Olympics, held in colder climates, tend to have fewer participating countries and events compared to the Summer Games.
+    - Winter sports such as skiing, skating, snowboarding, and ice hockey dominate the program, with fewer nations possessing the infrastructure and expertise to compete in 
+     these disciplines.
+    - Despite the smaller scale, the Winter Olympics showcase the skill and athleticism of athletes in sports uniquely suited to snowy and icy conditions.
 
 
 ### 4. Medals distribution by Athletes, Countries and Sports throughout the Year's
