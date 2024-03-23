@@ -19,8 +19,7 @@ Objective: To explore and visualize extensive Olympic Games data to identify tre
 2. What countries participated in almost every Olympic Season?
 3. Participants and Events by Season?
 4. Medals distribution by Athletes, Countries and Sports throughout the Year's?
-5. What are the most optimal skills to learn?
-* Top Countries by Medals: Visual representations highlighting countries with the highest medal counts across all Olympic 
+5. Athletes Participations and Medal Winning Analysis?
 
 
 # Tools I Used
