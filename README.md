@@ -58,12 +58,10 @@ For my deep dive into the analysis, I harnessed the power of several key tools:
 
 
 ### 4. Medals distribution by Athletes, Countries and Sports throughout the Year's
-Exploring the average salaries associated with different skills revealed which skills are the highest paying.
 
-Here's a breakdown of the results for top paying skills for Data Analysts:
-- **High Demand for Big Data & ML Skills:** Top salaries are commanded by analysts skilled in big data technologies (PySpark, Couchbase), machine learning tools (DataRobot, Jupyter), and Python libraries (Pandas, NumPy), reflecting the industry's high valuation of data processing and predictive modeling capabilities.
-- **Software Development & Deployment Proficiency:** Knowledge in development and deployment tools (GitLab, Kubernetes, Airflow) indicates a lucrative crossover between data analysis and engineering, with a premium on skills that facilitate automation and efficient data pipeline management.
-- **Cloud Computing Expertise:** Familiarity with cloud and data engineering tools (Elasticsearch, Databricks, GCP) underscores the growing importance of cloud-based analytics environments, suggesting that cloud proficiency significantly boosts earning potential in data analytics.
+- Certain athletes such as (Michael Fred Phelps II from US, Larisa Semyonovna Latynina from Soviet Union, Nikolai Yefimovich Andrianov from Russia) emerge as prolific medal winners, achieving multiple podium finishes across multiple Olympic Games.
+- Traditional powerhouse sports such as athletics, swimming, and gymnastics often command a significant share of Olympic medals, reflecting their widespread appeal and global participation.
+- Certain nations consistently rank among the top medal-winning countries, demonstrating sustained success and investment in Olympic sports.
 
 
 ### 5. Athletes Participations and Medal Winning Analysis
