@@ -71,7 +71,7 @@ For my deep dive into the analysis, I harnessed the power of several key tools:
 
 # What I Learned
 
-Throughout this adventure, I've turbocharged my SQL toolkit with some serious firepower:
+Throughout this adventure, I've turbocharged my SQL and PowerBI toolkit with some serious firepower:
 
 - **🧩 Complex Query Crafting:** Mastered the art of advanced SQL, merging tables like a pro and wielding clauses for ninja-level table maneuvers.
 - **📊 Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
