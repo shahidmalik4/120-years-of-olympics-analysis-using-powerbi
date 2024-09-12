@@ -2,7 +2,7 @@
 📊 The "120 Years of Olympic Games: A Comprehensive Review" project aimed to analyze historical Olympic Games data spanning more than a century. Utilizing data sourced from Kaggle, the project focused on cleaning, preparing, normalizing, and visualizing the data in Power BI to extract meaningful insights and highlight key trends in Olympic history.
 
 <br>
-checkout out full projct <a href="https://shahidmalik.vercel.app/project/120-years-of-olympic-games">Here</a>
+checkout out full projct <a href="https://shahidmalik.vercel.app/project/120-years-of-olympic-games-review">Here</a>
 <br>
 
 # Background
